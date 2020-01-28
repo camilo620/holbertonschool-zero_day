@@ -1,1 +1,1 @@
-Here you can find the answers of the GIT project at Holberton School
+Making some changes for the project GIT at Holberton School
